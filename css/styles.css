@@ -333,10 +333,10 @@ pre[class*="language-"] {
   .mobile .page img {
     width: 970px;
     max-height: 320px; }
-  .portrait .mobile .page {
-    min-width: 510px; }
-    .portrait .mobile .page img {
-      width: 500px; }
+.mobile .portrait .page {
+  min-width: 510px; }
+  .mobile .portrait .page img {
+    width: 500px; }
 .mobile .portrait {
   margin-top: -5px;
   margin-bottom: -5px; }
