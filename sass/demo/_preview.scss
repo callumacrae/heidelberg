@@ -69,13 +69,13 @@
       width: 970px;
       max-height: 320px;
     }
+  }
 
-    .portrait & {
-      min-width: 510px;
+  .portrait .page {
+    min-width: 510px;
 
-      img {
-        width: 500px;
-      }
+    img {
+      width: 500px;
     }
   }
 
